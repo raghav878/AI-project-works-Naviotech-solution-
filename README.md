@@ -1,2 +1,2 @@
-# Medical-Insurance-
+# AI-project-work
 insurance data 
